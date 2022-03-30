@@ -57,10 +57,10 @@ vim .clasp.json
 ```
 
 ``` json
-　
+
 #.clasp.json
 
-# プロジェクトからscriptIdをコピーして入力する
+#プロジェクトからscriptIdをコピーして入力する
 
 {"scriptId":"ここに入力","rootDir":"./dist"}
 
